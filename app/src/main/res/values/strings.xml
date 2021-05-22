@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FractalExplorer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_invert">Invert Fractals</string>
+    <string name="action_screenshot">Screenshot</string>
+    <string name="action_change">Change Fractal</string>
+
+    <string name="alert_change">Select your fractal!</string>
+</resources>
